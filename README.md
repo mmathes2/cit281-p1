@@ -1,5 +1,6 @@
 # cit281-p1
 Review (ish?) how to create code that shows the date and get introduced to the CLI and some of its functions (exciting!!) 
+
 ![image](https://github.com/mmathes2/cit281-p1/assets/134009490/d809f01a-848f-4dd6-9220-d14d7dfd1bc9)
 
 ## Use the command line interface (CLI) of your operating system to create a number of folders
